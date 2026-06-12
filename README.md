@@ -13,7 +13,7 @@ Hi, I'm Abdelhalim, a passionate Full Stack Developer from Algeria with over 3 y
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meta.derhalim@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meta.derhalim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derragui-abdelhalim-ahmed/)
 
 </div>
