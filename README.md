@@ -58,5 +58,3 @@ Hi, I'm Abdelhalim, a passionate Full Stack Developer from Algeria with over 3 y
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xDAA&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
