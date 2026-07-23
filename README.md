@@ -9,7 +9,7 @@
 
 <br/>
 
-Hi, I'm Abdelhalim, a passionate Full Stack Developer from Algeria with over 3 years of experience in building modern web applications. I specialize in both frontend and backend development, delivering clean, fast, and visually stunning websites and web apps.
+Hi, I'm Abdelhalim, a passionate Full Stack Developer from Algeria specializing in building modern web applications. I focus on both frontend and backend development, delivering clean, fast, and visually appealing websites and web apps.
 
 <br/>
 
