@@ -1,6 +1,6 @@
 <div align="center">
 
-# DERRAGUI ABDELHALIM AHME
+# DERRAGUI ABDELHALIM AHMED
 ### `0xDAA`
 
 <br/>
